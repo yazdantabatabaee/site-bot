@@ -1,0 +1,4 @@
+/* Bridge: makes DM VPN plugin pages (shop/dashboard/tickets)
+   inherit this theme's color tokens automatically. */
+.dm, .dm-wrap { background: transparent; }
+.dm-hero, .dm-wrap .dm-hero { padding-top: 20px; }
